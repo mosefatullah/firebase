@@ -1,5 +1,5 @@
 /**
- * Firebase.js (v0.1.0)
+ * Firebase.js (v0.1.1)
  * @Created by Mohammad Sefatullah
  * @License: MIT
  */
